@@ -1,0 +1,1708 @@
+{
+    "bancoFalabella": [
+        {
+            "id": 1,
+            "titulo": "40% dcto en Mamut",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4xXbhn9RafRL9HgWeWyhEI/f2df5a143dcbf95a269e336328fe8841/Imagen_Mamut_1440_x_400.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/mamut",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 2,
+            "titulo": "40% dcto en Malva Loca",
+            "descripcion": "En venta presencial, pagando con tu CMR o débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/3vgHPdmdd0OLG5VN5IFPob/1f3d78722d8768ff0c48a0b4a917fa04/Landing_MalvaLoca_foto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/malva-loca",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 3,
+            "titulo": "40% dcto en Barbanegra",
+            "descripcion": "En venta presencial, pagando con tu CMR o débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5O8qtHYiC4iACE88iyAwUk/c4cf8b514e2ce5eb1a3307e234affdbd/VITRINA_RESTAURANTES.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/Barbanegra",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 4,
+            "titulo": "40% dcto en Barbazul",
+            "descripcion": "En venta presencial, pagando con tu CMR o débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5O8qtHYiC4iACE88iyAwUk/c4cf8b514e2ce5eb1a3307e234affdbd/VITRINA_RESTAURANTES.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/barbazul",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 5,
+            "titulo": "40% dcto en los Martes de BordeRio",
+            "descripcion": "En restaurantes seleccionados",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/27r8kESeAL8BslI3P1QRKq/707bd121efab81b24c01a737701c4d8b/borde-rio.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/martes-de-borderio",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 6,
+            "titulo": "40% dcto en los Miércoles Gourmet",
+            "descripcion": "En restaurantes seleccionados",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/DZdTYUKe5Gq83z7EoLYpB/cb4cce5c497c5fd5c3acd2bab305d66e/FOTO_LANDING_BENEFICIOS.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/miercoles-gourmet-cmr",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 7,
+            "titulo": "40% dcto en Mallplaza",
+            "descripcion": "En restaurantes seleccionados",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6Od37cbmcB9sP4oyWjVnqB/5f2b3d4f48874d4bf644e750ed223faf/MicrosoftTeams-image__56_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/40-dcto-mallplaza",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 8,
+            "titulo": "40% dcto en restaurantes seleccionados de Mall Vivo Panorámico",
+            "descripcion": "En restaurantes seleccionados todos lunes, martes y miércoles pagando con CMR o Débito de Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2FGB7lFBe4IakB3dfZBGJf/fa1307c70150a1f24b493e2ca605d675/MicrosoftTeams-image__54_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/40-restaurantes-mall-vivo-panoramico",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 9,
+            "titulo": "40% dcto en restaurantes Muu Steak, Tanta y Cantina Isidora",
+            "descripcion": "Todos los sábados y domingos pagando con CMR o Débito de Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/24FeceA6VbhgwQyUAJPULn/1e3a70029a37c6db2cf195a3f2b6147f/MicrosoftTeams-image__55_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/40-restaurantes-gms",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 10,
+            "titulo": "40% dcto en restaurantes seleccionados de Santiago Open Gourmet",
+            "descripcion": "En restaurantes seleccionados pagando con CMR o Débito de Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1bqOmEyEJahlJ8ghdU3Wdj/6631ebe2843c2f71464e9f5897232eb5/Landing_SOG.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/santiago-open-gourmet",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 11,
+            "titulo": "40% dcto en Vapiano",
+            "descripcion": "En venta presencial",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4NLU5mQEcHddUnRvatzDbE/dff5ac5091082d55a4c66edff63eac2a/Landing_Vapiano_foto.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/Vapiano",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 12,
+            "titulo": "40% dcto en Kobo Sushi",
+            "descripcion": "En venta presencial, pagando con tu CMR o débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/48cA7y4i1XnuBm1aazhXRT/ed4b4216aa0595ddb5edcaace2c6250f/WhatsApp_Image_2023-06-02_at_15.47.36.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/Kobo",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 13,
+            "titulo": "40% dcto en Ciudad Vieja",
+            "descripcion": "En venta presencial, Pagando con tu CMR o débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7l9ECM0LYsEJLJOugsVI70/48b0fcd042e470cca33636de0e8abead/MicrosoftTeams-image__53_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/ciudad-vieja",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 14,
+            "titulo": "40% dcto en Tea Connection",
+            "descripcion": "En venta presencial, pagando con tu CMR o débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/75cnT2lusuG6tDTEQDFukl/9a87bd25d198fad88ca91a0da868d329/Landing_tea_conecction_foto.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/tea-connection",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 15,
+            "titulo": "40% dcto en Bicka",
+            "descripcion": "En venta presencial, pagando con tu CMR o débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2z8JfCNM9DkSRsWrcqo4yN/7dd4fd7e981aafb0edc30ef7242b10b6/Landing_BICKA_foto.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/bicka",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 16,
+            "titulo": "40% dcto en Mercado del 14",
+            "descripcion": "En restaurantes seleccionados de Mallplaza Vespucio",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1432XJB2m2tpxDhUdLufvM/548ad7fb149343a1e124690153ac83b5/Landing_MERCADO14_foto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/mercado-del-14",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 17,
+            "titulo": "20% dcto Club de Restaurantes",
+            "descripcion": "Presencial, retiro en local y delivery",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/kkTe56RyvUthDKorKOuPU/03f92fac8e40a2249b1837bf77aef9e0/club-restaurantes.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 18,
+            "titulo": "Hasta 3 meses sin costo de suscripción a Uber One",
+            "descripcion": "Hasta 3 meses sin costo de suscripción a Uber One pagando con tu CMR o Débito Mastercard.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1v8OqEkhJfMoOW1RCZFiqz/d3bd4398dd757ec0e26503b3ff048fc1/Landing_Uber-Eats.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/uber-mastercard",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 19,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 20,
+            "titulo": "40% dcto en Dunkin",
+            "descripcion": "En locales y online",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6g1g6jI3etIqoaQfxJSFlg/d965477721ad3b12d2ffa56de172dd04/Banner_1440x400_dunkin.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/dunkin",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 21,
+            "titulo": "40% dcto en McDonald´s en McCombo McPollo Italiano",
+            "descripcion": "Pagando en el mesón o AutoMac",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4FX8UdAVQKadb1Bs6APWfj/10f80fdd7ba6f48ad15b03a9b8290ab9/Landing_mc-donalds.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/mc-donalds",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 22,
+            "titulo": "40% en Rappi",
+            "descripcion": "En restoranes seleccionados",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6Bzt3zbuXrbeKr6Lyrh0oX/1acedd24ba8e1181737039211cc93fe0/Landing_Rappi.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/rappi",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 23,
+            "titulo": "40% dcto en Juan Maestro",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/51lucFL2oiN1uYLsoEQCZH/6f6e21a9e8ffa2c9bc616b0c7d13b050/Imagen_JM_1440_x_400.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/juan-maestro",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 24,
+            "titulo": "40% dcto en Barrio Chick´en",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6FP710locX4ARsGjiWKRYI/0cf839cd9f876bde547ea7e9abcd2ac1/BODEGON_CMR_1440X440PX.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/barrio-chick-en",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 25,
+            "titulo": "40% dcto en Doggis",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1AAraLEQSZ9gkHokjqbW1i/3c1cc40e0bc6095df801ccda82d77b55/1440X400_DOGGIS_CMR.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/doggis",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 26,
+            "titulo": "40% dcto en Lovdo",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6UZtHOBg1oJ2CAxeor105W/92080cb14035a7a8e99f67efca2aa080/Landing_Lovdo.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/lovdo",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 27,
+            "titulo": "40% dcto en Tommy Beans",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2dnBr4tK6aHvZhn21Y67lc/9fe4e106c5eb1252e884faeb8d848d1e/Imagen_TB_1440_x_400.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/tommybeans",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 28,
+            "titulo": "40% dcto en Bloke Burger",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/3qlMxHfC6lwAVa1x4De9h0/8d78e6d28be1222b8cea0e5683dc71d4/Landing_Blokeburger.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/bloke-burger",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 29,
+            "titulo": "hasta 40% en Uber Eats",
+            "descripcion": "En restoranes seleccionados ingresando como cupón de descuento \"BFONENOV\"",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/3hjxa8F8Y2mpZbsu5tfbh6/c3f8f79b6041a121ab294e448eb9930c/UE_Logo_Horizontal_RGB_web_GreenBG.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/uber-eats",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 30,
+            "titulo": "30% dcto en Tika Foods",
+            "descripcion": "En el total de la compra online, pagando con tu CMR o Débito banco falabella.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/78hShNJRqa6pcjHKQnJd6Q/5d21587e5184123e2caec674572c21ab/Landing_Tika_foto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/tika-foods",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 31,
+            "titulo": "30% de dcto en botillerias seleccionadas",
+            "descripcion": "todos los martes",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/gcdfK5H2OwLXmxORJjILT/e04dbc2e25a0e7f8b9de71c6f35cb8b5/Landing_housebar1.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/pedidos-ya",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 32,
+            "titulo": "20% DE DESCUENTO EN FRUTAS Y VERDURAS",
+            "descripcion": "Con tu CMR y/o débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2WduqBEtdaqEhFaQ2MVqFb/ef24b0d599489dce36755b733988f8ff/MicrosoftTeams-image__37_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/20-dcto-frutas-y-verduras",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 33,
+            "titulo": "40% dcto en masgluglu.com",
+            "descripcion": "En productos seleccionados con tu CMR o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2H3apx6JfRyI76FS1UpIvC/c25368b09d2f15c8e86b182aeea230f7/Landing_MASGLUGLU_foto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/masgluglu",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 34,
+            "titulo": "40% de descuento en el total de tu boleta en Biancolatte",
+            "descripcion": "Presencial en locales, pagando con tu CMR o Débito banco falabella.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2zKGkmupwqecdvhGaNZoCo/614509be9607bb4c68c92983cbfbf1c1/Landing_BIANCOLATTE_foto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/biancolatte",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 35,
+            "titulo": "40% dcto en Domino's Pizza",
+            "descripcion": "En el total de la compra online y presencial",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4VkptBsvud3jIrwA1JJ6kO/c9892a18c060bbcb358c1d1bbd17f312/dominos_pizza_mes.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/dominos-pizza",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 36,
+            "titulo": "40% dcto en Boost",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/3MGu8A60yUvViC71c2tDMu/9d2175fa98eec38103924da0c77eedc9/Fondo_Boost.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/boost",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 37,
+            "titulo": "40% dcto en Yogen Früz",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6qyP0cc4TSollfh6IE2qzx/1f29bd647fe596a339ac00addea0af3d/Fondo_Yogen.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/yogen-fruz",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 38,
+            "titulo": "40% dcto en Mr. Pretzels",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1VUpQzl7lJitOg8jGJadfG/515ff630735272f1b976a0c605ae1161/Fondo_Mr_Pretzel.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/mr-pretzel",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 39,
+            "titulo": "Hasta 50% dcto en Drinksclic",
+            "descripcion": "En productos seleccionados",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4rLMgD4O1m1KxOAbIF2BJ9/0021698fa302437b6b15b43d4c8a338b/Drinkslicss.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/drinksclic",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 40,
+            "titulo": "40% dcto en Juan Valdez",
+            "descripcion": "En bebidas preparadas seleccionadas",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2f6byn3PpR2uzI3n7LeUA1/0327685042ce8e46a81776cd0cf1da9a/Juan_Valdez.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/juan-valdez-todos-los-dias",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 41,
+            "titulo": "$10.000 dcto en Tottus App",
+            "descripcion": "Por compras sobre $29.990",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1NUc1HZtjVKeuDSRLQB0tC/f1bd1c268180cb5bc2a6b4e86ec7bbbb/MicrosoftTeams-image__9_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fazil-app",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 42,
+            "titulo": "Despacho gratis en Tottus App",
+            "descripcion": "Por compras sobre $39.990",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1NUc1HZtjVKeuDSRLQB0tC/f1bd1c268180cb5bc2a6b4e86ec7bbbb/MicrosoftTeams-image__9_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/despacho-gratis-tottus-app",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 43,
+            "titulo": "40% dcto en Tea Connection",
+            "descripcion": "En venta presencial, pagando con tu CMR o débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/75cnT2lusuG6tDTEQDFukl/9a87bd25d198fad88ca91a0da868d329/Landing_tea_conecction_foto.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/tea-connection",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 44,
+            "titulo": "30% dcto en House Bar",
+            "descripcion": "Pagando con tarjetas Banco Falabella en Venta online",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5scA8C8lOvZgSC7UBWCuDS/4cc31ae3f225923d16b925410188b8d5/Landing_housebar.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/house-bar",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 45,
+            "titulo": "40% dcto en Bicka",
+            "descripcion": "En venta presencial, pagando con tu CMR o débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2z8JfCNM9DkSRsWrcqo4yN/7dd4fd7e981aafb0edc30ef7242b10b6/Landing_BICKA_foto.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/bicka",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 46,
+            "titulo": "40% de dcto en Viña Ventisquero",
+            "descripcion": "En ventisqueronline.com, pagando con tu CMR o Débito Banco Falabella.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2knGMmNoFzE2kwIfD8KbMZ/dfa2bb6bb1c9c441b5bbbc6df3b741bc/Landing_VENTISQUERO_foto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/vina-ventisquero",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 47,
+            "titulo": "Hasta 3 meses sin costo de suscripción a Uber One",
+            "descripcion": "Hasta 3 meses sin costo de suscripción a Uber One pagando con tu CMR o Débito Mastercard.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1v8OqEkhJfMoOW1RCZFiqz/d3bd4398dd757ec0e26503b3ff048fc1/Landing_Uber-Eats.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/uber-mastercard",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 48,
+            "titulo": "40% de descuento en McDonald’s y Papa John’s todos los martes a través de Uber Eats",
+            "descripcion": "40% de descuento en McDonald’s y Papa John’s todos los martes a través de Uber Eats, ingresando el código MC0723CL,no acumulable con otras promociones.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2wxnIj1gqFUBndLGxwYO9S/3750f34bcb9fe6d6772c100affb3411a/MicrosoftTeams-image__15_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/uber-eats-mastercard",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 49,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Sabores"
+        },
+        {
+            "id": 50,
+            "titulo": "25% dcto en Turbus",
+            "descripcion": "En pasaje semicama y salón cama",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6tZDyCO9YzuCzOcyK35imV/00dd9cfff23ac4b3109f428de598a983/Fondo_Turbus.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/Turbus-25-descuento-pasajes-TLDUD",
+            "categoria": "Turismo"
+        },
+        {
+            "id": 51,
+            "titulo": "$20.000 dcto en Cabify",
+            "descripcion": "Válido para usuarios nuevos. Dcto consiste en 10 viajes con $2.000 dcto c/u",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/24cJ4N8eb2AhFgp9qNalom/52ce9eaf9570d59600d8e0e43acc62b4/Landing_CABIFY.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/cabify",
+            "categoria": "Turismo"
+        },
+        {
+            "id": 128,
+            "titulo": "30% dcto en Grin",
+            "descripcion": "En viajes en la App",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4ip1EeQsOz8eNDdeN95hFK/7dd89aec55c535239fd518debeace92f/Landing_GRIN.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/grin",
+            "categoria": "Sostenible"
+        },
+        {
+            "id": 52,
+            "titulo": "3, 6 y 12 cuotas sin interés",
+            "descripcion": "Pagando con tu CMR en Viajes Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4NbN9Hdqfk9guIe7B71m8y/90c4fc73f31f4a4b85b022c51438927f/viajes-falabella-.2.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/viajes-falabella-3-6-y-12-csi",
+            "categoria": "Turismo"
+        },
+        {
+            "id": 53,
+            "titulo": "25% dcto en McParking",
+            "descripcion": "En estacionamiento para Aeropuerto de Santiago",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7wPqi4zj77ppW89LIXv82J/7bd5253eb60cd9f263e8476820e801b2/Mc-Parking__1_.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/mcparking",
+            "categoria": "Turismo"
+        },
+        {
+            "id": 54,
+            "titulo": "3, 6 y 12 cuotas sin interés",
+            "descripcion": "Pagando con tu CMR en Despegar",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/FrgMmRw3WucP6iphaBQCr/fc51ceed1c90d2bb8847e47f8dfc9a1d/despegar.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/despegar-cuotas-sin-interes",
+            "categoria": "Turismo"
+        },
+        {
+            "id": 55,
+            "titulo": "20% dcto en Gama Rent a Car",
+            "descripcion": "En reservas presenciales y web.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/jdTEwrUVX9anJEZqVa9b4/0292cd74b2f69c6f68b7a1283066feea/Landing_GAMA.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/gama",
+            "categoria": "Turismo"
+        },
+        {
+            "id": 56,
+            "titulo": "10% dcto en Econorent",
+            "descripcion": "En reservas online",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6WHLMPiWt2RDOqj2MVMjr6/62cab7170848df558d82f767c746a0c1/econorent.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/econorent",
+            "categoria": "Turismo"
+        },
+        {
+            "id": 57,
+            "titulo": "Acumula más CMR Puntos en Despegar",
+            "descripcion": "Pagando con tu tarjeta CMR",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/FrgMmRw3WucP6iphaBQCr/fc51ceed1c90d2bb8847e47f8dfc9a1d/despegar.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/acumula-m%C3%A1s-CMR-Puntos-en-Despegar",
+            "categoria": "Turismo"
+        },
+        {
+            "id": 58,
+            "titulo": "Acumula más CMR Puntos en Viajes Falabella",
+            "descripcion": "Pagando con tu tarjeta CMR",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4NbN9Hdqfk9guIe7B71m8y/90c4fc73f31f4a4b85b022c51438927f/viajes-falabella-.2.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/acumula-mas-cmr-puntos-en-viajes-falabella",
+            "categoria": "Turismo"
+        },
+        {
+            "id": 59,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Turismo"
+        },
+        {
+            "id": 60,
+            "titulo": "Noviembre viene cargado de ofertas",
+            "descripcion": "Pagando con tu CMR y/o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5bFZJNzFTSQqoKzfmpqJAD/5f55817d5021b858e68c941bf3c65791/Caluga_OU_19.10__1_.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fcom",
+            "categoria": "Despacho gratis"
+        },
+        {
+            "id": 61,
+            "titulo": "$10.000 dcto en Tottus App",
+            "descripcion": "Por compras sobre $29.990",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1NUc1HZtjVKeuDSRLQB0tC/f1bd1c268180cb5bc2a6b4e86ec7bbbb/MicrosoftTeams-image__9_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fazil-app",
+            "categoria": "Despacho gratis"
+        },
+        {
+            "id": 62,
+            "titulo": "Despacho gratis en Tottus App",
+            "descripcion": "Por compras sobre $39.990",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1NUc1HZtjVKeuDSRLQB0tC/f1bd1c268180cb5bc2a6b4e86ec7bbbb/MicrosoftTeams-image__9_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/despacho-gratis-tottus-app",
+            "categoria": "Despacho gratis"
+        },
+        {
+            "id": 63,
+            "titulo": "30% dcto en House Bar",
+            "descripcion": "Pagando con tarjetas Banco Falabella en Venta online",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5scA8C8lOvZgSC7UBWCuDS/4cc31ae3f225923d16b925410188b8d5/Landing_housebar.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/house-bar",
+            "categoria": "Despacho gratis"
+        },
+        {
+            "id": 64,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Despacho gratis"
+        },
+        {
+            "id": 65,
+            "titulo": "Noviembre viene cargado de ofertas",
+            "descripcion": "Pagando con tu CMR y/o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5bFZJNzFTSQqoKzfmpqJAD/5f55817d5021b858e68c941bf3c65791/Caluga_OU_19.10__1_.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fcom",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 66,
+            "titulo": "35% de descuento",
+            "descripcion": "en planes semestrales",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6z8Ai0luchLH3RXt0d9FjD/9144b974a1c9ac0f4370a42e59994404/AX1I0769-1.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/energy-club",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 67,
+            "titulo": "6 a 12 cuotas sin interés",
+            "descripcion": "exclusivo en compras presenciales en planes personal trainer.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6z8Ai0luchLH3RXt0d9FjD/9144b974a1c9ac0f4370a42e59994404/AX1I0769-1.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/cuotas-sin-interes-energy",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 68,
+            "titulo": "30% dcto en Ésika",
+            "descripcion": "en compras online y 30% de dcto en compras presenciales de lunes a miércoles",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/35ETCfHDiHP3hsRNXYRpZC/aa97e4071a7a70dca3cdf572c09561c2/Foto-landing-Esika.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/esika",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 69,
+            "titulo": "30% dcto en L´Bel",
+            "descripcion": "en compras online y 30% de dcto en compras presenciales de lunes a miércoles",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2w8h1ry3JAXbPoIV9E8bl8/0f6697f24048c7eb96e3251339a8593d/Landing_L_BEL.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/l-bel",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 70,
+            "titulo": "20% dcto en Clínica You",
+            "descripcion": "En todos los servicios de salud online y presencial",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/3X3sSZb1yF9qSaUH7KMmm9/c1668da2ea2dd096ec2807d3ffbd01a3/Landing_you_foto.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/clinica-you",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 71,
+            "titulo": "Hasta 50% dcto en Clínica Desmond",
+            "descripcion": "En tratamientos kinésicos e inyectables",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/018r1UckOEl4lIDi0ImDRs/dec882b5262b7d1f2267cf9906aff085/Landing_clinica-desmond.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/clinica-desmond",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 72,
+            "titulo": "Hasta 60% dcto en SanaSalud",
+            "descripcion": "En arancel dental y tratamiento dermoestético.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1krTdOvPuYLZMK8kJhLQ5m/80cb1c4670b39def2665d179bcbc16ac/Landing_Sana-Salud.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/sanasalud-75-60-descuentos",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 73,
+            "titulo": "60% dcto en Clínica Dental Cumbre",
+            "descripcion": "En el total del arancel",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2Fg74VkFFE336hlUcr1MI1/5d466ae1eba66b415ea0580412c51795/Landing_clinica-dental-cumbre.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/clinica-dental-cumbres-60-descuento",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 74,
+            "titulo": "25% dcto en medicamentos",
+            "descripcion": "En medicamentos comprando en Farmacias Ahumada",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/3dXzz0hBCGxDZxI0HjjVeQ/6ca50536cef6654c934e0799eafe1111/FASA.jfif",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/aon-farmacias-ahumada",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 75,
+            "titulo": "62% dcto en IntegraMédica",
+            "descripcion": "En prestaciones dentales",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5cQffqBEFj9dYrtnB80KM0/5cc31fa1e902ec5a533e2492b509c596/integra-medica.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/integramedica-60-descuento-prestaciones-dentales-15-imagenes",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 76,
+            "titulo": "20% dcto en Clínica Santa Blanca",
+            "descripcion": "En todas las especialidades",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/3TxwDxCRM3dk2kevaxhZZi/1135d4e848f198025e44c2c4f764d826/Clinica-santa-blanca__2_.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/clinica-santa-blanca",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 77,
+            "titulo": "Precio Preferencial en Club Ratón Pérez",
+            "descripcion": "Primera consulta odontopediátrica + limpieza: $34.500",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7KPOlzSG9SHTxlJkuZUVei/717bc12e6aec30c22862c6f758ae5dd3/dentista-infantil-cerca-de-brunete-doctora.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/club-raton-perez",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 78,
+            "titulo": "20% dcto en Equusmare",
+            "descripcion": "En su página web",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/HjJe4xhzaSVVfAn9PBX7i/d876c05e8548aaff967f649b9a02ee3a/Foto_grupal_fondo.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/equusmare",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 79,
+            "titulo": "53% dcto en UnoSalud",
+            "descripcion": "En prestaciones dentales",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/JhfSWVAFqiU5Yid5QlDEj/ea239eb5e2964dd4310964db08bd105e/dentista-infantil-cerca-de-brunete-doctora.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/uno-salud",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 80,
+            "titulo": "55% de descuento en Clínica Dávila Recoleta, Clínica Dávila Vespucio y Centros Médicos Dávila.",
+            "descripcion": "En el copago en Programa Preventivo Corazón",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7s9yCji8Shmh8a8gv592oQ/3c564192397546de8a3f788fadc216db/Da__vila_MesdelCorazo__nCMR_1440x400.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/clinica-davila",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 81,
+            "titulo": "hasta 30% dcto en compras online",
+            "descripcion": "en compras online en app natura y natura.cl",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7wDQ56REFdIAfM6o0FVICu/111bcf3e52ad65281766320cd4d28ce4/Landing_Natura.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/natura",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 82,
+            "titulo": "Higiene dental + pack radiografías $19.900",
+            "descripcion": "Pagando presencialmente con: 👉 💳 CMR Falabella o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6x8TqLPrwj9kxo4gfgg0zR/ae26f5f677d1efc663d2f5bfaba9b12b/Landing_Clinica_Everest_foto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/clinica-everest",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 83,
+            "titulo": "Especial Ortodoncia Invisible",
+            "descripcion": "$150.000 dcto + 60% dcto en tratamiento ortodoncia: 👉 💳 CMR Falabella o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/3KrEmYTC1e73NZjdzMaZJ5/a7d93dadc3a2348e1ee51d6b2fe1c5c8/MicrosoftTeams-image__47_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/clinica-everest-3",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 84,
+            "titulo": "60% dcto en Clínica Everest",
+            "descripcion": "En odontología general y todas sus especialidades",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2bcmmS6eQOJBNVtgBfxtbC/06d941fae289858cff10e119da1a2433/everest.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/everest-descuento",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 85,
+            "titulo": "75% dcto en Clínica OneDent",
+            "descripcion": "En el Arancel de la clínica + Radiografía e Instalación de brackets costo $0",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5H0EjTQ0zb0LJW7vUoLpq4/e99ba2e843301b84c0927539cd41304c/landing_onedent_foto.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/clinica-onedent",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 86,
+            "titulo": "20% dcto Inmunomédica",
+            "descripcion": "En Copago para Exámenes de Laboratorio Clínico",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6FiyBiF9tRNh34Us57hqVb/26e9917f7530a7e185a6dbf945d69573/MicrosoftTeams-image__28_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/inmunomedica",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 87,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Salud y belleza"
+        },
+        {
+            "id": 88,
+            "titulo": "Educación con 10 Cuotas Sin Interés",
+            "descripcion": "Con tu CMR Visa o Mastercard",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1EeLWsNAmtFdChSCaPCKXD/ac3b0538380866693ec3e445004005e5/Landing_Campan__a-Educacional-CSI.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/campana-educacion-cuotas-sin-interes",
+            "categoria": "Educación"
+        },
+        {
+            "id": 89,
+            "titulo": "55% dcto en CPECH",
+            "descripcion": "Programas Presencial, Online o Elearning para alumnos de 1°, 2°, 3°, 4° medio y Egresados, para programas desde 3 cursos.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5kScfwNBVi5bl41fY8oDhX/97b02346017dd40e1e30f177fb6fcd56/Landing_CPECH.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/cpech",
+            "categoria": "Educación"
+        },
+        {
+            "id": 90,
+            "titulo": "15% dcto en Preu Pedro de Valdivia",
+            "descripcion": "En todos los programas",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2H8KYcjU5RJc2uaMTU9rCY/94798a094b4990f600b8624d4423b77c/Pre-uni-PDV.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/preuniversitario-pedro-de-valdivia-descuento",
+            "categoria": "Educación"
+        },
+        {
+            "id": 91,
+            "titulo": "Matricula 2023 gratis",
+            "descripcion": "Pagando con tu CMR o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6tYRujEsH4wH9jLuhkdpUS/459ae8d7de57ae1fcc325f2450acf265/Landing_Vitamina.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/vitamina",
+            "categoria": "Educación"
+        },
+        {
+            "id": 92,
+            "titulo": "50% dcto en Vitamina",
+            "descripcion": "En las primeras dos mensualidades 2024",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6tYRujEsH4wH9jLuhkdpUS/459ae8d7de57ae1fcc325f2450acf265/Landing_Vitamina.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/vitamina-2",
+            "categoria": "Educación"
+        },
+        {
+            "id": 93,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Educación"
+        },
+        {
+            "id": 94,
+            "titulo": "Noviembre viene cargado de ofertas",
+            "descripcion": "Pagando con tu CMR y/o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5bFZJNzFTSQqoKzfmpqJAD/5f55817d5021b858e68c941bf3c65791/Caluga_OU_19.10__1_.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fcom",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 95,
+            "titulo": "40% dcto en Juan Maestro",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/51lucFL2oiN1uYLsoEQCZH/6f6e21a9e8ffa2c9bc616b0c7d13b050/Imagen_JM_1440_x_400.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/juan-maestro",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 96,
+            "titulo": "40% dcto en Barrio Chick´en",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6FP710locX4ARsGjiWKRYI/0cf839cd9f876bde547ea7e9abcd2ac1/BODEGON_CMR_1440X440PX.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/barrio-chick-en",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 97,
+            "titulo": "40% dcto en Doggis",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1AAraLEQSZ9gkHokjqbW1i/3c1cc40e0bc6095df801ccda82d77b55/1440X400_DOGGIS_CMR.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/doggis",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 98,
+            "titulo": "40% dcto en Lovdo",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6UZtHOBg1oJ2CAxeor105W/92080cb14035a7a8e99f67efca2aa080/Landing_Lovdo.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/lovdo",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 99,
+            "titulo": "40% dcto en Tommy Beans",
+            "descripcion": "En el total de la compra",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2dnBr4tK6aHvZhn21Y67lc/9fe4e106c5eb1252e884faeb8d848d1e/Imagen_TB_1440_x_400.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/tommybeans",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 100,
+            "titulo": "3, 6 y 12 cuotas sin interés",
+            "descripcion": "Pagando con tu CMR en Viajes Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4NbN9Hdqfk9guIe7B71m8y/90c4fc73f31f4a4b85b022c51438927f/viajes-falabella-.2.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/viajes-falabella-3-6-y-12-csi",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 101,
+            "titulo": "3, 6 y 12 cuotas sin interés",
+            "descripcion": "Pagando con tu CMR en Despegar",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/FrgMmRw3WucP6iphaBQCr/fc51ceed1c90d2bb8847e47f8dfc9a1d/despegar.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/despegar-cuotas-sin-interes",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 102,
+            "titulo": "Acumula más CMR Puntos en Shell",
+            "descripcion": "Pagando con tu tarjeta CMR y Débito Banco Falabella en Shell, Upa y Upita. ¡No olvides entregar tu Rut al momento de pagar!",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4XAocJKEmMxehAuI0QU7WR/06d9bdda5ac81f6729b29eff29e6d30d/shell_Grande.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/Acumula-m%C3%A1s-CMR-Puntos-en-Shell",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 103,
+            "titulo": "Acumula más CMR Puntos en cambiatuneumatico.com",
+            "descripcion": "Pagando con tu tarjeta CMR o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4LlWwWUZngC3my30Itpo9e/bd78b298f5a8d6b40c36ca112bf4cd03/Imagen.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/acumula-mas-cmr-puntos-en-cambiatuneumatico-com",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 104,
+            "titulo": "Acumula más CMR Puntos en la LipiApp",
+            "descripcion": "Pagando con tu tarjeta CMR o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5R8f0dXh9pqkCcSaFx2c0j/0df3e28075faaa130bf4dc3caa34aacc/Lipigas_grande.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/Acumula-m%C3%A1s-CMR-Puntos-en-la-LipiApp",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 105,
+            "titulo": "Acumula más CMR Puntos en Econorent",
+            "descripcion": "Pagando en Econorent con tu tarjeta CMR y Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6DQufOyomoLvmCthfR0gsP/fe826847cf0a882073002be7055dfdb0/Econorent_grande.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/Acumula-m%C3%A1s-CMR-Puntos-en-Econorent",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 106,
+            "titulo": "Acumula más CMR Puntos en Despegar",
+            "descripcion": "Pagando con tu tarjeta CMR",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/FrgMmRw3WucP6iphaBQCr/fc51ceed1c90d2bb8847e47f8dfc9a1d/despegar.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/acumula-m%C3%A1s-CMR-Puntos-en-Despegar",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 107,
+            "titulo": "Acumula más CMR Puntos en Viajes Falabella",
+            "descripcion": "Pagando con tu tarjeta CMR",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4NbN9Hdqfk9guIe7B71m8y/90c4fc73f31f4a4b85b022c51438927f/viajes-falabella-.2.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/acumula-mas-cmr-puntos-en-viajes-falabella",
+            "categoria": "Acumula mas CMR puntos"
+        },
+        {
+            "id": 108,
+            "titulo": "25% dcto en entradas para Magik Garden",
+            "descripcion": "Pagando con tu CMR o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7LV3781UVAQ1sDHTLbHec0/32d65acfc0ccd11795fed7c7a1423d2b/MicrosoftTeams-image__45_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/magik-garden",
+            "categoria": "Entretención"
+        },
+        {
+            "id": 109,
+            "titulo": "20% dcto en entradas musical Mamma Mia",
+            "descripcion": "Pagando con tu CMR o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/ooCvJhESDhi5JnTvfAdHY/0974ba4cbd84c6bab7fb5666c6bece05/MicrosoftTeams-image__61_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/mamma-mia",
+            "categoria": "Entretención"
+        },
+        {
+            "id": 110,
+            "titulo": "Noviembre viene cargado de ofertas",
+            "descripcion": "Pagando con tu CMR y/o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5bFZJNzFTSQqoKzfmpqJAD/5f55817d5021b858e68c941bf3c65791/Caluga_OU_19.10__1_.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fcom",
+            "categoria": "Entretención"
+        },
+        {
+            "id": 111,
+            "titulo": "Entradas con descuento",
+            "descripcion": "Comprando presencialmente en Cinemark y Cinemark.cl",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5jwaELoMI8c9EnCHZTfbx4/214eff6d450278a3d79cef9a40a880ce/Cinemark__1_.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/cinemark",
+            "categoria": "Entretención"
+        },
+        {
+            "id": 112,
+            "titulo": "40% dcto en Domino's Pizza",
+            "descripcion": "En el total de la compra online y presencial",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4VkptBsvud3jIrwA1JJ6kO/c9892a18c060bbcb358c1d1bbd17f312/dominos_pizza_mes.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/dominos-pizza",
+            "categoria": "Entretención"
+        },
+        {
+            "id": 113,
+            "titulo": "Combo Banco Falabella por $5.900 en Cinemark",
+            "descripcion": "Comprando presencialmente en Cinemark",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/28kBx55kIpgl0cB0Ij7phu/a321047413a8b3679846141e91b4bf5a/Landing_cinemark.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/cinemark-combo-banco-falabella",
+            "categoria": "Entretención"
+        },
+        {
+            "id": 114,
+            "titulo": "40% dcto en Chuck E Cheese",
+            "descripcion": "todos los miércoles en la carga de minutos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7wTmtwcuOQbd26MEwhIPhs/7a9a7aba02d95660f04f2f9cc738911e/CEC_Falabella.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/chuck-e-cheese",
+            "categoria": "Entretención"
+        },
+        {
+            "id": 115,
+            "titulo": "20% dcto en Clínica You",
+            "descripcion": "En todos los servicios de salud online y presencial",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/3X3sSZb1yF9qSaUH7KMmm9/c1668da2ea2dd096ec2807d3ffbd01a3/Landing_you_foto.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/clinica-you",
+            "categoria": "Entretención"
+        },
+        {
+            "id": 116,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Entretención"
+        },
+        {
+            "id": 117,
+            "titulo": "Noviembre viene cargado de ofertas",
+            "descripcion": "Pagando con tu CMR y/o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5bFZJNzFTSQqoKzfmpqJAD/5f55817d5021b858e68c941bf3c65791/Caluga_OU_19.10__1_.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fcom",
+            "categoria": "Cuotas sin Interes"
+        },
+        {
+            "id": 118,
+            "titulo": "Paga tus Contribuciones en 3 cuotas sin interés",
+            "descripcion": "Exclusivo con CMR Visa/CMR Mastercard",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7etUySYce2dYPxJ87orAUR/992817da62a0b304b8e8f66f38f67084/Landing_Contribuciones-Oct.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/Contribuciones",
+            "categoria": "Cuotas sin Interes"
+        },
+        {
+            "id": 119,
+            "titulo": "Educación con 10 Cuotas Sin Interés",
+            "descripcion": "Con tu CMR Visa o Mastercard",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1EeLWsNAmtFdChSCaPCKXD/ac3b0538380866693ec3e445004005e5/Landing_Campan__a-Educacional-CSI.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/campana-educacion-cuotas-sin-interes",
+            "categoria": "Cuotas sin Interes"
+        },
+        {
+            "id": 120,
+            "titulo": "6 a 12 cuotas sin interés",
+            "descripcion": "exclusivo en compras presenciales en planes personal trainer.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6z8Ai0luchLH3RXt0d9FjD/9144b974a1c9ac0f4370a42e59994404/AX1I0769-1.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/cuotas-sin-interes-energy",
+            "categoria": "Cuotas sin Interes"
+        },
+        {
+            "id": 121,
+            "titulo": "Hasta 36 cuotas sin interés en Panorama",
+            "descripcion": "Pagando con tu CMR",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/jhkDtA7iDq94EuHJmzeiv/178ae94dc96407bcee0b9407bb038462/MicrosoftTeams-image__60_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/panorama",
+            "categoria": "Cuotas sin Interes"
+        },
+        {
+            "id": 122,
+            "titulo": "18 Cuotas sin Interés",
+            "descripcion": "Pagando con tu CMR en Hyla",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/3HmsR0W0ec8NyehrSxxQTE/fd87aa5c3d8e8cc89da433452d9acbcd/Landing_HYLA_foto.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/hyla",
+            "categoria": "Cuotas sin Interes"
+        },
+        {
+            "id": 123,
+            "titulo": "Hasta 36 Cuotas sin Interés",
+            "descripcion": "Pagando con tu CMR en Thermomix",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1WKxcBSbh1dzZtkyari5MW/874ee840512d69c29643086aa996e2d1/Landing_Thermomix-9-.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/thermomix",
+            "categoria": "Cuotas sin Interes"
+        },
+        {
+            "id": 124,
+            "titulo": "3, 6 y 12 cuotas sin interés",
+            "descripcion": "Pagando con tu CMR en Viajes Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4NbN9Hdqfk9guIe7B71m8y/90c4fc73f31f4a4b85b022c51438927f/viajes-falabella-.2.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/viajes-falabella-3-6-y-12-csi",
+            "categoria": "Cuotas sin Interes"
+        },
+        {
+            "id": 125,
+            "titulo": "3, 6 y 12 cuotas sin interés",
+            "descripcion": "Pagando con tu CMR en Despegar",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/FrgMmRw3WucP6iphaBQCr/fc51ceed1c90d2bb8847e47f8dfc9a1d/despegar.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/despegar-cuotas-sin-interes",
+            "categoria": "Cuotas sin Interes"
+        },
+        {
+            "id": 126,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Cuotas sin Interes"
+        },
+        {
+            "id": 127,
+            "titulo": "20% dcto en PlantMe",
+            "descripcion": "En compras presenciales y online",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/9sbFatJmJ5b97SN3hZMJk/f50f0e50b2d29c54cce0022b406232b7/banner1.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/plantme",
+            "categoria": "Sostenible"
+        },
+        {
+            "id": 129,
+            "titulo": "20% dcto en Equusmare",
+            "descripcion": "En su página web",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/HjJe4xhzaSVVfAn9PBX7i/d876c05e8548aaff967f649b9a02ee3a/Foto_grupal_fondo.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/equusmare",
+            "categoria": "Sostenible"
+        },
+        {
+            "id": 130,
+            "titulo": "hasta 30% dcto en compras online",
+            "descripcion": "en compras online en app natura y natura.cl",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7wDQ56REFdIAfM6o0FVICu/111bcf3e52ad65281766320cd4d28ce4/Landing_Natura.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/natura",
+            "categoria": "Sostenible"
+        },
+        {
+            "id": 131,
+            "titulo": "20% de descuento en EcoMovers",
+            "descripcion": "Utilizando el cupón en el sitio web de ecomovers.cl",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5sGUqTyp51yfMDlz3Yhl3S/f21fa78d39d96d95b7215ec42c298039/Landing_Ecomovers.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/ecomovers",
+            "categoria": "Sostenible"
+        },
+        {
+            "id": 132,
+            "titulo": "25% dcto en Karubag",
+            "descripcion": "Los 3 primeros meses de suscripción en los planes de reciclaje hogar",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4DYYO5bSFzXRqOYYMrJB8D/cbe7cdce707afdc0f519ad8f30870f89/Karubag.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/karubag",
+            "categoria": "Sostenible"
+        },
+        {
+            "id": 133,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Sostenible"
+        },
+        {
+            "id": 134,
+            "titulo": "Noviembre viene cargado de ofertas",
+            "descripcion": "Pagando con tu CMR y/o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5bFZJNzFTSQqoKzfmpqJAD/5f55817d5021b858e68c941bf3c65791/Caluga_OU_19.10__1_.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fcom",
+            "categoria": "Mascotas"
+        },
+        {
+            "id": 135,
+            "titulo": "20% dcto en Veterinaria Petsmann",
+            "descripcion": "En el total de la boleta",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6S0kMiawup5186vD7m0unF/950ce30c9742f774e3f3827a6b5e0121/1440x400.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/petsmann",
+            "categoria": "Mascotas"
+        },
+        {
+            "id": 136,
+            "titulo": "20% dcto en Superzoo.cl",
+            "descripcion": "En el total de la boleta",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6eegR667pxrrsgvQcvyRz5/a8dcfa9a35c28453cd626a59f1da5d78/landing_superzoo__foto.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/superzoo",
+            "categoria": "Mascotas"
+        },
+        {
+            "id": 137,
+            "titulo": "20% dcto en packs de etología",
+            "descripcion": "Inscribiéndote en el Club de Mascotas F y pagando con tu CMR o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6KHvoQtdAnsr4wkngnMv4T/d3a52084192a09925bc2169823682f03/Landing_FLORES_DE_PAZ_foto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/flores-de-paz",
+            "categoria": "Mascotas"
+        },
+        {
+            "id": 138,
+            "titulo": "20% dcto en cremación",
+            "descripcion": "Inscribiéndote en el Club de Mascotas F y pagando con tu CMR o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7Bd3qDB41xxLMx2qABS39/d8fc3ac5d3973950f8d0660e97fb2263/MicrosoftTeams-image__24_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/cielo-de-mascotas",
+            "categoria": "Mascotas"
+        },
+        {
+            "id": 139,
+            "titulo": "20% dcto en club de perros y gatos",
+            "descripcion": "Presencial y online a través de clubdeperrosygatos.cl",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7dljUcSUYttJdZd1mfWUkO/ffbf80d414d5a2b285ebe3aaefc7f49b/Landing-CPYG.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/club-de-perros-y-gatos",
+            "categoria": "Mascotas"
+        },
+        {
+            "id": 140,
+            "titulo": "20% dcto en Petvet",
+            "descripcion": "A través de www.petvet.cl",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5F7BCFK4WButkxlF1AGtA9/a91dac315286a6e141546fdbac339480/Landing_Petvet.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/petvet",
+            "categoria": "Mascotas"
+        },
+        {
+            "id": 141,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Mascotas"
+        },
+        {
+            "id": 142,
+            "titulo": "Noviembre viene cargado de ofertas",
+            "descripcion": "Pagando con tu CMR y/o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5bFZJNzFTSQqoKzfmpqJAD/5f55817d5021b858e68c941bf3c65791/Caluga_OU_19.10__1_.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fcom",
+            "categoria": "Apps"
+        },
+        {
+            "id": 143,
+            "titulo": "30% de dcto en botillerias seleccionadas",
+            "descripcion": "todos los martes",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/gcdfK5H2OwLXmxORJjILT/e04dbc2e25a0e7f8b9de71c6f35cb8b5/Landing_housebar1.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/pedidos-ya",
+            "categoria": "Apps"
+        },
+        {
+            "id": 144,
+            "titulo": "$10.000 dcto en Tottus App",
+            "descripcion": "Por compras sobre $29.990",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1NUc1HZtjVKeuDSRLQB0tC/f1bd1c268180cb5bc2a6b4e86ec7bbbb/MicrosoftTeams-image__9_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fazil-app",
+            "categoria": "Apps"
+        },
+        {
+            "id": 145,
+            "titulo": "Despacho gratis en Tottus App",
+            "descripcion": "Por compras sobre $39.990",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1NUc1HZtjVKeuDSRLQB0tC/f1bd1c268180cb5bc2a6b4e86ec7bbbb/MicrosoftTeams-image__9_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/despacho-gratis-tottus-app",
+            "categoria": "Apps"
+        },
+        {
+            "id": 146,
+            "titulo": "50% de dcto en Neat",
+            "descripcion": "Para todos los usuarios + bono de puntos por PAT + $5000 dcto en cuentas básicas",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5KWyvZTEMxzDzdAygUmo54/4400d898e919fab6ea7e9f3eba5c069f/neat.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/neat",
+            "categoria": "Apps"
+        },
+        {
+            "id": 147,
+            "titulo": "$20.000 dcto en Cabify",
+            "descripcion": "Válido para usuarios nuevos. Dcto consiste en 10 viajes con $2.000 dcto c/u",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/24cJ4N8eb2AhFgp9qNalom/52ce9eaf9570d59600d8e0e43acc62b4/Landing_CABIFY.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/cabify",
+            "categoria": "Apps"
+        },
+        {
+            "id": 148,
+            "titulo": "$15.000 en créditos para viajar en Awto",
+            "descripcion": "Utilizando el cupón en la aplicación de Awto al momento de registrarte",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/28ZcwKLDJgD0wgTvnIgjqS/aea7950f141437603d7462a796e73327/Landing_awto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/awto",
+            "categoria": "Apps"
+        },
+        {
+            "id": 149,
+            "titulo": "30% dcto en Grin",
+            "descripcion": "En viajes en la App",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4ip1EeQsOz8eNDdeN95hFK/7dd89aec55c535239fd518debeace92f/Landing_GRIN.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/grin",
+            "categoria": "Apps"
+        },
+        {
+            "id": 150,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Apps"
+        },
+        {
+            "id": 151,
+            "titulo": "10% dcto. en tu suscripción automotriz",
+            "descripcion": "en todo el catálogo a través de Smartycar",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6zs2sH6W0lQ5oLFJ1xcQqB/21da4c3ff7aff0b6700c5b5b7a6ea34d/landing_smartyy.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/smartycar-renting-automotriz",
+            "categoria": "Servicios"
+        },
+        {
+            "id": 152,
+            "titulo": "$10.000 dcto en Tottus App",
+            "descripcion": "Por compras sobre $29.990",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1NUc1HZtjVKeuDSRLQB0tC/f1bd1c268180cb5bc2a6b4e86ec7bbbb/MicrosoftTeams-image__9_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fazil-app",
+            "categoria": "Servicios"
+        },
+        {
+            "id": 153,
+            "titulo": "Despacho gratis en Tottus App",
+            "descripcion": "Por compras sobre $39.990",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1NUc1HZtjVKeuDSRLQB0tC/f1bd1c268180cb5bc2a6b4e86ec7bbbb/MicrosoftTeams-image__9_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/despacho-gratis-tottus-app",
+            "categoria": "Servicios"
+        },
+        {
+            "id": 154,
+            "titulo": "Hasta $7.000 de dcto en Lipigas",
+            "descripcion": "En Venta online, app y call center 6006006200. Válido para la primera compra del mes.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6v6pX7JEnAqtIVsTNygWl4/acc9e9f91d327d0d6b01848903f0eef4/Landing_LIPIGAS.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/lipigas",
+            "categoria": "Servicios"
+        },
+        {
+            "id": 155,
+            "titulo": "70% dcto en Verisure",
+            "descripcion": "en instalacion de kit smart + 50% de dcto en monitoreo por 3 meses + cámara Arlo de regalo",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/36U0R1vRFJgHN9xvPyLHeg/1b4823bfd68fa452511783e8e61bab9c/carrusel-verisure1.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/verisure",
+            "categoria": "Servicios"
+        },
+        {
+            "id": 156,
+            "titulo": "25% de descuento en servicios de transferencia online",
+            "descripcion": "Pagando con tu CMR o debito Banco Falabella, no aplica a impuestos, solo al cargo por servicio.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/Ipv8nIh2SPapgP2o3VOBR/0c37cd556c6723f5a15262f1bc47cede/AUTOSAFE.cdr_1.cdr_1.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/autosafe",
+            "categoria": "Servicios"
+        },
+        {
+            "id": 157,
+            "titulo": "50% dcto en CARVUK",
+            "descripcion": "Pagando con tu CMR o debito Banco Falabella en revisión pre compra y 25% en lavado y revisión técnica a domicilio",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1YsjCA2tII2hKKMu6hKwAb/fae68e68c16ad46f3396cf5f478fa1ed/Carvul_RT.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/carvuk",
+            "categoria": "Servicios"
+        },
+        {
+            "id": 158,
+            "titulo": "35% dcto en Neumamérica",
+            "descripcion": "En servicios presenciales. Pagando con tu CMR o Débito banco falabella.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4AN4mKTmH4IvqparMikQPa/d9689bb33b5461dc409146e137c24204/Landing_NEUMAMERICA_foto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/neumamerica",
+            "categoria": "Servicios"
+        },
+        {
+            "id": 159,
+            "titulo": "60% dcto en Diario Financiero",
+            "descripcion": "En plan Digital Premium",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7pLr7ltEO6dAcnXecyF6Xd/14299a096f5755e1bc51d5b095281aa5/Landing_Diario-Financiero.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/diario-financiero",
+            "categoria": "Servicios"
+        },
+        {
+            "id": 160,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Servicios"
+        },
+        {
+            "id": 161,
+            "titulo": "Celular Smartphone Samsung Galaxy A54 5G 128 GB",
+            "descripcion": "$ 409.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/16737959_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/prod83141732/Celular-Smartphone-Samsung-Galaxy-A54-5G-128-GB",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 162,
+            "titulo": "Notebook 14-DQ2508LA Hp",
+            "descripcion": "$ 329.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/16702678_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/16702678/Notebook-14-DQ2508LA-Hp",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 163,
+            "titulo": "Pack 3 Ampolletas Inteligentes Lumos Color 2.0 Eufy",
+            "descripcion": "$ 22.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/16731364_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/16731364/Pack-3-Ampolletas-Inteligentes-Lumos-Color-2.0-Eufy",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 164,
+            "titulo": "Ampollleta Eufy Lumos Smart Bul 2.0",
+            "descripcion": "$ 7.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/14708969_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/14708969/Ampollleta-Eufy-Lumos-Smart-Bul-2.0",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 165,
+            "titulo": "Cargador Carga Súper Rápida 25W Negro Samsung",
+            "descripcion": "$ 12.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/14952798_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/14952798/Cargador-Carga-Super-Rapida-25W-Negro-Samsung",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 166,
+            "titulo": "Escritorio Brisa100307",
+            "descripcion": "$ 69.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/9401296_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/9401296/Escritorio-Brisa100307",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 167,
+            "titulo": "Cargador Carga Súper Rápida 25W Blanco Samsung",
+            "descripcion": "$ 16.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/8383128_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/8383128/Cargador-Carga-Super-Rapida-25W-Blanco-Samsung",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 168,
+            "titulo": "Pack De 2 Cable Tipo C Samsung",
+            "descripcion": "$ 7.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/15477681_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/15477681/Pack-De-2-Cable-Tipo-C-Samsung",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 169,
+            "titulo": "Audífonos Tipo C Negro Samsung",
+            "descripcion": "$ 11.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/8383144_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/8383144/Audifonos-Tipo-C-Negro-Samsung",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 170,
+            "titulo": "Smartwatch Reloj Inteligente Galaxy Watch5 44mm BT Samsung",
+            "descripcion": "$ 189.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/16479147_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/prod57187596/Smartwatch-Reloj-Inteligente-Galaxy-Watch5-44mm-BT-Samsung",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 171,
+            "titulo": "Escritorio Aula Nogal 1.60 Mt Medular",
+            "descripcion": "$ 399.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/6390584_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/6390584/Escritorio-Aula-Nogal-1.60-Mt-Medular",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 172,
+            "titulo": "Escritorio Melamina 120x60 Cm Form Office",
+            "descripcion": "$ 119.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/16434495_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/prod91482060/Escritorio-Melamina-120x60-Cm-Form-Office",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 173,
+            "titulo": "Pokemon Shining Pearl Nintendo",
+            "descripcion": "$ 39.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/15761688_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/15761688/Pokemon-Shining-Pearl-Nintendo",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 174,
+            "titulo": "Escritorio Office 12 Wengue Tuhome",
+            "descripcion": "$ 84.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/14579340_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/14579340/Escritorio-Office-12-Wengue-Tuhome",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 175,
+            "titulo": "Combo Office 12 Escritorio + Archivador Habano Tuhome",
+            "descripcion": "$ 159.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/6299951_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/6299951/Combo-Office-12-Escritorio-+-Archivador-Habano-Tuhome",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 176,
+            "titulo": "Combo Office 13 Escritorio + Archivador Habana Tuhome",
+            "descripcion": "$ 189.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/6299952_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/6299952/Combo-Office-13-Escritorio-+-Archivador-Habana-Tuhome",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 177,
+            "titulo": "Combo Office 9 Escritorio + Librero Habano Miel Tuhome",
+            "descripcion": "$ 149.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/6299948_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/6299948/Combo-Office-9-Escritorio-+-Librero-Habano-Miel-Tuhome",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 178,
+            "titulo": "Escritorio Bilbao 2L Miel / Wengue Tuhome",
+            "descripcion": "$ 179.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/7329607_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/7329607/Escritorio-Bilbao-2L-Miel-Wengue-Tuhome",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 179,
+            "titulo": "Archivador Muro Note Bco/Miel Tuhome",
+            "descripcion": "$ 74.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/7329574_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/7329574/Archivador-Muro-Note-Bco-Miel-Tuhome",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 180,
+            "titulo": "Escritorio Stamford - Wengue/Duna Tuhome",
+            "descripcion": "$ 89.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/14579428_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/14579428/Escritorio-Stamford-Wengue-Duna-Tuhome",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 181,
+            "titulo": "Escritorio + Gabinete + Biblioteca",
+            "descripcion": "$ 199.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/14579431_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/14579431/Escritorio-+-Gabinete-+-Biblioteca",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 182,
+            "titulo": "Escritorio Mumbai - Duna / Carbon Tuhome",
+            "descripcion": "$ 119.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/14579389_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/14579389/Escritorio-Mumbai-Duna-Carbon-Tuhome",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 183,
+            "titulo": "Escritorio Alteza Duna Tuhome",
+            "descripcion": "$ 159.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/14579409_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/14579409/Escritorio-Alteza-Duna-Tuhome",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 184,
+            "titulo": "Escritorio Alteza Habano Tuhome",
+            "descripcion": "$ 159.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/14455142_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/14455142/Escritorio-Alteza-Habano-Tuhome",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 185,
+            "titulo": "Escritorio Office 10 Habano Miel Wengue Tuhome",
+            "descripcion": "$ 199.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/6299934_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/6299934/Escritorio-Office-10-Habano-Miel-Wengue-Tuhome",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 186,
+            "titulo": "Escritorio Neo 140x60 Cm Form Office",
+            "descripcion": "$ 169.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/16434619_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/prod91482037/Escritorio-Neo-140x60-Cm-Form-Office",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 187,
+            "titulo": "Escritorio Neo 180x70 Cm Form Office",
+            "descripcion": "$ 219.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/16434637_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/prod91482039/Escritorio-Neo-180x70-Cm-Form-Office",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 188,
+            "titulo": "Escritorio Neo 120x60 Cm Form Office",
+            "descripcion": "$ 149.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/16434610_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/prod91482036/Escritorio-Neo-120x60-Cm-Form-Office",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 189,
+            "titulo": "Escritorio Neo Con Pasacables 140x60 Cm Form Office",
+            "descripcion": "$ 179.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/16434656_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/prod91482042/Escritorio-Neo-Con-Pasacables-140x60-Cm-Form-Office",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 190,
+            "titulo": "Escritorio Neo 200x70 Cm Form Office",
+            "descripcion": "$ 239.990",
+            "imagen_url": "https://falabella.scene7.com/is/image/Falabella/16434641_1?wid=388&hei=260",
+            "url": "https://www.falabella.com/falabella-cl/product/prod91482040/Escritorio-Neo-200x70-Cm-Form-Office",
+            "categoria": "Tiendas retail"
+        },
+        {
+            "id": 191,
+            "titulo": "25% dcto en entradas para Magik Garden",
+            "descripcion": "Pagando con tu CMR o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7LV3781UVAQ1sDHTLbHec0/32d65acfc0ccd11795fed7c7a1423d2b/MicrosoftTeams-image__45_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/magik-garden",
+            "categoria": "Otros"
+        },
+        {
+            "id": 192,
+            "titulo": "20% dcto en entradas musical Mamma Mia",
+            "descripcion": "Pagando con tu CMR o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/ooCvJhESDhi5JnTvfAdHY/0974ba4cbd84c6bab7fb5666c6bece05/MicrosoftTeams-image__61_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/mamma-mia",
+            "categoria": "Otros"
+        },
+        {
+            "id": 193,
+            "titulo": "Noviembre viene cargado de ofertas",
+            "descripcion": "Pagando con tu CMR y/o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5bFZJNzFTSQqoKzfmpqJAD/5f55817d5021b858e68c941bf3c65791/Caluga_OU_19.10__1_.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fcom",
+            "categoria": "Otros"
+        },
+        {
+            "id": 194,
+            "titulo": "20% dcto en PlantMe",
+            "descripcion": "En compras presenciales y online",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/9sbFatJmJ5b97SN3hZMJk/f50f0e50b2d29c54cce0022b406232b7/banner1.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/plantme",
+            "categoria": "Otros"
+        },
+        {
+            "id": 195,
+            "titulo": "Hasta 35% dcto en Neumashop",
+            "descripcion": "Incluye montaje y balanceo gratis. 35% dcto en sucursales y 20% online",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6dkfQOafUOLwkHwIbubh3K/6281dd6323115dc6407447a886e038d3/Neumashop.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/neumashop",
+            "categoria": "Otros"
+        },
+        {
+            "id": 196,
+            "titulo": "25% dcto en Flores de Ocoa",
+            "descripcion": "En arreglos y ramos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4nUCc5LNUXJ7RmshGheWQe/6bac967d0e9b85fee9b833c8a3c7207f/imagen_de_1440x400_Mesa_de_trabajo_1.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/flores-de-ocoa",
+            "categoria": "Otros"
+        },
+        {
+            "id": 197,
+            "titulo": "20% DE DESCUENTO EN FRUTAS Y VERDURAS",
+            "descripcion": "Con tu CMR y/o débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2WduqBEtdaqEhFaQ2MVqFb/ef24b0d599489dce36755b733988f8ff/MicrosoftTeams-image__37_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/20-dcto-frutas-y-verduras",
+            "categoria": "Otros"
+        },
+        {
+            "id": 198,
+            "titulo": "30% dcto en arriendo de oficinas y mini bodegas",
+            "descripcion": "Hasta 50m2 por hasta 90 días",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/64Rs60VDiAUm6X02lbEgjA/1cc192e0869c5e495bebf2f1be41702a/MicrosoftTeams-image__76_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/mibodega",
+            "categoria": "Otros"
+        },
+        {
+            "id": 199,
+            "titulo": "20% DE DESCUENTO EN CARNES DE VACUNO",
+            "descripcion": "Con tu CMR y/o débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5Z6LnBuoc3DKUEKHK30XHj/c4e60e1519d1f661bf53efbce8f635ce/Caluga_Tottus_Carnes_1.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/20-dcto-carnes-miercoles",
+            "categoria": "Otros"
+        },
+        {
+            "id": 200,
+            "titulo": "40% dcto en masgluglu.com",
+            "descripcion": "En productos seleccionados con tu CMR o Débito Banco Falabella",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2H3apx6JfRyI76FS1UpIvC/c25368b09d2f15c8e86b182aeea230f7/Landing_MASGLUGLU_foto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/masgluglu",
+            "categoria": "Otros"
+        },
+        {
+            "id": 201,
+            "titulo": "Hasta 50% dcto en Drinksclic",
+            "descripcion": "En productos seleccionados",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4rLMgD4O1m1KxOAbIF2BJ9/0021698fa302437b6b15b43d4c8a338b/Drinkslicss.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/drinksclic",
+            "categoria": "Otros"
+        },
+        {
+            "id": 202,
+            "titulo": "10% dcto. en tu suscripción automotriz",
+            "descripcion": "en todo el catálogo a través de Smartycar",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/6zs2sH6W0lQ5oLFJ1xcQqB/21da4c3ff7aff0b6700c5b5b7a6ea34d/landing_smartyy.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/smartycar-renting-automotriz",
+            "categoria": "Otros"
+        },
+        {
+            "id": 203,
+            "titulo": "$10.000 dcto en Tottus App",
+            "descripcion": "Por compras sobre $29.990",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1NUc1HZtjVKeuDSRLQB0tC/f1bd1c268180cb5bc2a6b4e86ec7bbbb/MicrosoftTeams-image__9_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/fazil-app",
+            "categoria": "Otros"
+        },
+        {
+            "id": 204,
+            "titulo": "Despacho gratis en Tottus App",
+            "descripcion": "Por compras sobre $39.990",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1NUc1HZtjVKeuDSRLQB0tC/f1bd1c268180cb5bc2a6b4e86ec7bbbb/MicrosoftTeams-image__9_.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/despacho-gratis-tottus-app",
+            "categoria": "Otros"
+        },
+        {
+            "id": 205,
+            "titulo": "70% dcto en Verisure",
+            "descripcion": "en instalacion de kit smart + 50% de dcto en monitoreo por 3 meses + cámara Arlo de regalo",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/36U0R1vRFJgHN9xvPyLHeg/1b4823bfd68fa452511783e8e61bab9c/carrusel-verisure1.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/verisure",
+            "categoria": "Otros"
+        },
+        {
+            "id": 206,
+            "titulo": "25% de descuento en servicios de transferencia online",
+            "descripcion": "Pagando con tu CMR o debito Banco Falabella, no aplica a impuestos, solo al cargo por servicio.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/Ipv8nIh2SPapgP2o3VOBR/0c37cd556c6723f5a15262f1bc47cede/AUTOSAFE.cdr_1.cdr_1.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/autosafe",
+            "categoria": "Otros"
+        },
+        {
+            "id": 207,
+            "titulo": "30% dcto en House Bar",
+            "descripcion": "Pagando con tarjetas Banco Falabella en Venta online",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/5scA8C8lOvZgSC7UBWCuDS/4cc31ae3f225923d16b925410188b8d5/Landing_housebar.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/house-bar",
+            "categoria": "Otros"
+        },
+        {
+            "id": 208,
+            "titulo": "40% de dcto en Viña Ventisquero",
+            "descripcion": "En ventisqueronline.com, pagando con tu CMR o Débito Banco Falabella.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/2knGMmNoFzE2kwIfD8KbMZ/dfa2bb6bb1c9c441b5bbbc6df3b741bc/Landing_VENTISQUERO_foto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/vina-ventisquero",
+            "categoria": "Otros"
+        },
+        {
+            "id": 209,
+            "titulo": "50% dcto en CARVUK",
+            "descripcion": "Pagando con tu CMR o debito Banco Falabella en revisión pre compra y 25% en lavado y revisión técnica a domicilio",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/1YsjCA2tII2hKKMu6hKwAb/fae68e68c16ad46f3396cf5f478fa1ed/Carvul_RT.png",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/carvuk",
+            "categoria": "Otros"
+        },
+        {
+            "id": 210,
+            "titulo": "35% dcto en Neumamérica",
+            "descripcion": "En servicios presenciales. Pagando con tu CMR o Débito banco falabella.",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/4AN4mKTmH4IvqparMikQPa/d9689bb33b5461dc409146e137c24204/Landing_NEUMAMERICA_foto.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/neumamerica",
+            "categoria": "Otros"
+        },
+        {
+            "id": 211,
+            "titulo": "60% dcto en Diario Financiero",
+            "descripcion": "En plan Digital Premium",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7pLr7ltEO6dAcnXecyF6Xd/14299a096f5755e1bc51d5b095281aa5/Landing_Diario-Financiero.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/diario-financiero",
+            "categoria": "Otros"
+        },
+        {
+            "id": 212,
+            "titulo": "40% dcto Viña Maquis y Viña Calcu",
+            "descripcion": "a través de vinosdeorigen.cl",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/7pBZr8Z8Z0aUfJQaqAEpTr/bd035774f2bc11afb4ae5f9829857568/Landing-vinos-de-origen.jpg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/vinos-de-origen",
+            "categoria": "Otros"
+        },
+        {
+            "id": 213,
+            "titulo": "Descuentos noviembre",
+            "descripcion": "Descuentos todos los días con tu CMR o Débito Banco Falabella Ver descuentos",
+            "imagen_url": "https://images.ctfassets.net/p6eyia4djstu/37yqSg4UP1lE36fbh2e2f7/8a449bf538d074e5c615e06eb5467c1e/WhatsApp_Image_2023-10-20_at_13.15.43__1_.jpeg",
+            "url": "https://www.bancofalabella.cl/descuentos/detalle/descuentos-noviembre",
+            "categoria": "Otros"
+        }
+    ]
+}
