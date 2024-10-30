@@ -33,6 +33,7 @@
         const mostrarMensaje = async mensaje => {
             const span = document.createElement("span");
             span.innerText = mensaje;
+            console.log(mensaje); // Agregamos un log para el diagnóstico
             return await crearDiv(span);
         };
 
@@ -57,33 +58,37 @@
 
         await mostrarMensaje("Iniciando Mala Queue versión " + VERSION);
 
-        // Esperar hasta que se detecte el botón de "Entrar"
+        // Paso 1: Esperar hasta que el botón de "Entrar" esté disponible
         const waitForQueueToFinish = async () => {
             return new Promise(resolve => {
                 const interval = setInterval(() => {
                     const buttonConfirmRedirect = document.getElementById("buttonConfirmRedirect");
-                    if (buttonConfirmRedirect) {
+                    if (buttonConfirmRedirect && !buttonConfirmRedirect.disabled) {
                         buttonConfirmRedirect.click();
                         clearInterval(interval);
                         resolve();
                     }
-                }, 1000);
+                }, 2000); // Revisamos cada 2 segundos para reducir la carga
             });
         };
-        
-        await waitForQueueToFinish();
 
+        await mostrarMensaje("Esperando para entrar en el sitio...");
+        await waitForQueueToFinish();
+        await mostrarMensaje("Accediendo a la página de tickets...");
+
+        // Paso 2: Verificar disponibilidad de tickets
         const response1 = await fetch("/Compra/TraerTipoTicketsSectores", {
             ...BASE_FETCH_PARAMS,
             body: JSON.stringify({ eventoID: EVENTO, eventoCalendarioID: NUM_FECHA })
         });
-        if (response1.url.includes("Account/SignIn")) {
-            await mostrarMensaje("Inicia sesión e intenta nuevamente");
+
+        if (response1.redirected || response1.url.includes("Account/SignIn")) {
+            await mostrarMensaje("Necesitas iniciar sesión. Redirigiendo...");
             window.location.href = "https://www.puntoticket.com/Account/SignIn";
             return;
         }
 
-        const body1 = JSON.parse(await response1.text());
+        const body1 = await response1.json();
         const available = body1.TipoTickets
             .filter(x => x.Disponible === 1)
             .filter(x => x.TipoTicketID >= TIPO_TICKET_ID_MIN)
@@ -96,9 +101,13 @@
 
         await mostrarMensaje(`Hay ${available.length} secciones con tickets no numerados disponibles`);
         
+        // Paso 3: Selección de sección y cantidad de tickets
         const jcTipoTicket = await seleccionar("Sección", available, seccion => seccion.TipoTicketID, seccion => `${seccion.TipoTicket} (${seccion.Precio})`);
         const jcCantidadTickets = await seleccionar("Cantidad de entradas", [1, 2], x => x.toString(), x => x.toString());
 
+        await mostrarMensaje("Seleccionando y agregando al carrito...");
+
+        // Paso 4: Agregar tickets al carrito
         const response2 = await fetch("/Compra/AgregarMultipleTickets", {
             ...BASE_FETCH_PARAMS,
             body: JSON.stringify({
@@ -109,16 +118,17 @@
             })
         });
 
-        const body2 = JSON.parse(await response2.text());
+        const body2 = await response2.json();
         if (!body2.Success) {
-            await mostrarMensaje("Error: " + body2.ErrorList.join(", "));
+            await mostrarMensaje("Error al agregar al carrito: " + body2.ErrorList.join(", "));
             return;
         }
 
-        await mostrarMensaje("Se agregaron las entradas al carro de compras. Redirigiendo al pago.");
+        await mostrarMensaje("Tickets añadidos al carrito. Redirigiendo al pago.");
         window.location.href = "/Compra/Pago";
 
     } catch (e) {
-        alert("Ocurrió un error: " + e.message);
+        console.error("Error:", e);
+        await mostrarMensaje("Ocurrió un error: " + e.message);
     }
 })();
